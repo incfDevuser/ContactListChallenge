@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ContactListExample</string>
+    <string name="name_input">Ingresa un Nombre</string>
+    <string name="phone_input">Ingresa un Telefono</string>
+    <string name="check_disponible">Disponible</string>
+    <string name="button_label">Agregar</string>
+    <string name="filtrar_label">Filtrar Disponibles</string>
 </resources>
